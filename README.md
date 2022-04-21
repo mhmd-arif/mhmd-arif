@@ -8,7 +8,5 @@
 - 🔭 Information Engineering Undergraduate Student at Gadjah Mada University.
 - 🌱 currently learning java, HTML, CSS, JavaScript, React, MySql, Kotlin
 - 💬 Ask me anything
-- 📫 How to reach me: 
-  -  mhmdarif.business@gmail.com (business purpose)
-  -  mhmdarif.developer@gmail.com (development purpose)
+- 📫 How to reach me: mhmdarif.business@gmail.com
 - ⚡ Humanity above religion
